@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/bghandley/BlogSocialAIPY.git
 Navigate to the project directory:
 bash
 Copy code
