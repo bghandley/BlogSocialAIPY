@@ -11,7 +11,7 @@ from post_to_wordpress import post_to_wordpress
 
 
 def main():
-    data = process_csv("/home/daesilin/scripts/NewAutoBlog/sample.csv")
+    data = process_csv("./sample.csv")
     
     print(f"Number of rows in CSV: {len(data)}")  # To check the number of rows processed
 

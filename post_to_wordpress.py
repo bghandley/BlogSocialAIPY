@@ -35,7 +35,7 @@ def post_to_wordpress(topic, html_content, yoast_seo_data, tags, PostDate, image
     :param tags: List of tags for the post.
     :param post_date: Optional date to schedule the post.
     """
-    wp_url = "https://wellspirit.space/xmlrpc.php"
+    wp_url = "https://website.com/xmlrpc.php"
     wp_username = os.environ.get("WP_USERNAME")
     wp_password = os.environ.get("WP_PASSWORD")
 
